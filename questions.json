@@ -1,0 +1,157 @@
+{
+  "game1": [
+    {
+      "sentence": "The classroom was a zoo.",
+      "choices": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+      "answer": "Metaphor",
+      "hint": "This is a direct comparison without using like or as."
+    },
+    {
+      "sentence": "She shines like the sun.",
+      "choices": ["Simile", "Idiom", "Hyperbole", "Personification"],
+      "answer": "Simile",
+      "hint": "Look for the word like."
+    },
+    {
+      "sentence": "The leaves danced in the wind.",
+      "choices": ["Metaphor", "Personification", "Idiom", "Hyperbole"],
+      "answer": "Personification",
+      "hint": "A non-human thing is doing a human action."
+    },
+    {
+      "sentence": "I am so hungry I could eat a horse.",
+      "choices": ["Hyperbole", "Simile", "Metaphor", "Idiom"],
+      "answer": "Hyperbole",
+      "hint": "This statement is exaggerated."
+    },
+    {
+      "sentence": "Break a leg before your performance.",
+      "choices": ["Idiom", "Hyperbole", "Metaphor", "Simile"],
+      "answer": "Idiom",
+      "hint": "The meaning is not literal."
+    },
+    {
+      "sentence": "The stars danced in the night sky.",
+      "choices": ["Hyperbole", "Personification", "Simile", "Idiom"],
+      "answer": "Personification",
+      "hint": "Something non-human is given a human action."
+    },
+    {
+      "sentence": "He is as brave as a lion.",
+      "choices": ["Simile", "Metaphor", "Idiom", "Hyperbole"],
+      "answer": "Simile",
+      "hint": "Uses as."
+    },
+    {
+      "sentence": "My backpack weighs a ton.",
+      "choices": ["Hyperbole", "Simile", "Personification", "Idiom"],
+      "answer": "Hyperbole",
+      "hint": "This is an exaggeration."
+    }
+  ],
+  "game2": [
+    {
+      "text": "The moon whispered secrets to the silent night.",
+      "question": "What figure of speech is used?",
+      "choices": ["Personification", "Simile", "Metaphor", "Hyperbole"],
+      "answer": "Personification",
+      "hint": "The moon is given a human action."
+    },
+    {
+      "text": "The moon whispered secrets to the silent night.",
+      "question": "What does the sentence mean?",
+      "choices": [
+        "The moon is really talking",
+        "The night feels quiet and mysterious",
+        "The moon is angry",
+        "The moon is a person"
+      ],
+      "answer": "The night feels quiet and mysterious",
+      "hint": "Focus on the mood."
+    },
+    {
+      "text": "Peter Piper picked a peck of pickled peppers.",
+      "question": "What figure of speech is used?",
+      "choices": ["Alliteration", "Onomatopoeia", "Irony", "Hyperbole"],
+      "answer": "Alliteration",
+      "hint": "Notice the repeated beginning sound."
+    },
+    {
+      "text": "Buzz! The bees circled around the bright flowers.",
+      "question": "Which word is an example of onomatopoeia?",
+      "choices": ["bright", "flowers", "Buzz", "circled"],
+      "answer": "Buzz",
+      "hint": "It sounds like the noise it describes."
+    },
+    {
+      "text": "The fire station burned down while the firefighters were away.",
+      "question": "What figure of speech is shown?",
+      "choices": ["Irony", "Simile", "Metaphor", "Idiom"],
+      "answer": "Irony",
+      "hint": "The result is opposite from what is expected."
+    },
+    {
+      "text": "Crash! The plates fell to the floor.",
+      "question": "Which word is an example of onomatopoeia?",
+      "choices": ["plates", "floor", "fell", "Crash"],
+      "answer": "Crash",
+      "hint": "It sounds like the sound."
+    },
+    {
+      "text": "The night wrapped the town in darkness.",
+      "question": "What figure of speech is used?",
+      "choices": ["Personification", "Simile", "Hyperbole", "Idiom"],
+      "answer": "Personification",
+      "hint": "Night is given a human-like action."
+    },
+    {
+      "text": "Sally sells seashells by the seashore.",
+      "question": "What figure of speech is used?",
+      "choices": ["Alliteration", "Onomatopoeia", "Irony", "Metaphor"],
+      "answer": "Alliteration",
+      "hint": "Look at the repeated beginning sound."
+    }
+  ],
+  "game3": [
+    {
+      "literal": "He is very fast.",
+      "figure": "Simile",
+      "hint": "Use like or as."
+    },
+    {
+      "literal": "The classroom is noisy.",
+      "figure": "Metaphor",
+      "hint": "Make a direct comparison without like or as."
+    },
+    {
+      "literal": "The wind is strong.",
+      "figure": "Personification",
+      "hint": "Give the wind a human action."
+    },
+    {
+      "literal": "I am very tired.",
+      "figure": "Hyperbole",
+      "hint": "Use exaggeration."
+    },
+    {
+      "literal": "The baby is sleeping peacefully.",
+      "figure": "Alliteration",
+      "hint": "Repeat beginning consonant sounds."
+    },
+    {
+      "literal": "She is very bright.",
+      "figure": "Simile",
+      "hint": "Compare using like or as."
+    },
+    {
+      "literal": "The rain is falling hard.",
+      "figure": "Personification",
+      "hint": "Give rain a human action."
+    },
+    {
+      "literal": "I am very hungry.",
+      "figure": "Hyperbole",
+      "hint": "Use an exaggerated sentence."
+    }
+  ]
+}
